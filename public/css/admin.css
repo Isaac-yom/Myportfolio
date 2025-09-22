@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600&display=swap');
+
+/* STYLE POUR LA PAGE DE CONFIRMATION */
+
+.confirmation {
+    text-align: center;
+    margin-top: 12rem;
+}
+
+.confirmation h2 {
+    font-weight: bold;
+    font-family: "DM Sans", sans-serif;
+    font-size: 1.3rem;
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.confirmation p {
+    color: white;
+    font-family: "DM Sans", sans-serif;
+    font-size: 1rem;
+    font-weight: 100;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 500px;
+    margin-bottom: 2rem;
+}
+
+.btn-confirmation {
+    color: #00ffe0;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 2rem;
+    font-weight: bold;
+    font-family: "DM Sans", sans-serif;
+    font-size: 1rem;
+    border: none;
+    padding: 15px 25px;
+    text-decoration: none;
+    margin-top: 1rem;
+    transition: 0.3s ease;
+}
+
+.btn-confirmation:hover {
+    color: white;
+    box-shadow: 0 8px 20px rgba(0, 255, 224, 0.3);
+}
+
+/* STYLE POUR LA TABLE */
+
+.table {
+    background-color: white;
+}
+
+.table td, 
+.table tbody td {
+    font-weight: normal;
+    font-family: "Figtree", sans-serif;
+    font-size: 1.2rem;
+}
+
+.title_list {
+    color: white;
+    margin-bottom: 1rem;
+    font-family: "DM Sans", sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.table th {
+    font-family: "DM Sans", sans-serif;
+    font-weight: bold;
+    color: #0a2a5e;
+    font-size: 1.3rem;
+}
