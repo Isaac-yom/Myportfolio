@@ -128,7 +128,7 @@
                         et pensés pour durer. Que vous soyez une entreprise, un entrepreneur, une organisation
                         ou un particulier, je vous accompagne dans la réalisation de vos <span>projet web</span> avec sérieux
                         et créativité. Mon objectif : donner vie à vos idées à travers des solutions faibles, modernes
-                        et parfaitement adaptés à vos besoins ✨.
+                        et parfaitement adaptés à vos besoins.
                     </p>
 
                     <div class="button">
@@ -196,7 +196,7 @@
                     <div class="swiper-slide">
                         <div class="testimonial-card">
                             <img src="{{ asset('images/boss.jpeg') }}" alt="Boss" class="testimonial-img mx-auto"> 
-                            <h2 class="testimonial-name">Mr Gérard LOKOSSOU ✨</h2>
+                            <h2 class="testimonial-name">Mr Gérard LOKOSSOU</h2>
                             <p class="testimonial-text">
                                 “Grâce à lui, mon site est devenu professionnel et moderne. Je suis fier du résultat.”
                             </p>    
@@ -208,7 +208,7 @@
                             <div class="testimonial-center">
                                 <img src="{{ asset('images/yom.jpg') }}" alt="yom" class="testimonial-img" mx-auto>
                             </div> 
-                            <h2 class="testimonial-name">Yom Service ✨</h2>
+                            <h2 class="testimonial-name">Yom Service</h2>
                             <p class="testimonial-text">
                                 “Il a compris mes besoins et livré un site qui dépasse mes attentes.”
                             </p>
@@ -218,7 +218,7 @@
                     <div class="swiper-slide">
                         <div class="testimonial-card">
                             <img src="{{ asset('images/friend.jpeg') }}" alt="friend" class="testimonial-img">
-                            <h2 class="testimonial-name">Mr Brice ADOKO ✨</h2>
+                            <h2 class="testimonial-name">Mr Brice ADOKO</h2>
                             <p class="testimonial-text">
                                 “Toujours disponible, sérieux et créatif. Je le recommande vivement.”
                             </p>
@@ -241,7 +241,7 @@
                 <div class="footer-section">
                     <h2 class="footer-title">IsaacYom</h2>
                     <p class="footer_desc">
-                        « Je conçois des expériences digitales modernes et élégantes pour donner vie à vos projets. » ✨
+                        « Je conçois des expériences digitales modernes et élégantes pour donner vie à vos projets. »
                     </p>
                     <div class="socials-footer">
                         <a href="https://api.whatsapp.com/send/?phone=%2B22958507828&text=Bonjour+monsieur/madame%0AJ%27esp%C3%A8re+que+vous+allez+tr%C3%A8s+bien" target="_blank"><i class="fa-brands fa-square-whatsapp"></i></a>
