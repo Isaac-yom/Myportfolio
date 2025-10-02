@@ -106,7 +106,7 @@
                     <p class="about-desc">
                         Je suis <strong>Isaac Yom</strong>, un passionné du web qui transforme des idées en expériences digitales modernes et élégantes.  
                         Mon objectif est de créer des sites performants, sécurisés et esthétiques, 
-                        qui répondent aux besoins réels de mes clients tout en dépassant leurs attentes. ✨
+                        qui répondent aux besoins réels de mes clients tout en dépassant leurs attentes.
                     </p>
                 </div>
             </div>
@@ -184,7 +184,7 @@
                 <div class="footer-section">
                     <h2 class="footer-title">IsaacYom</h2>
                     <p class="footer_desc">
-                        « Je conçois des expériences digitales modernes et élégantes pour donner vie à vos projets. » ✨
+                        « Je conçois des expériences digitales modernes et élégantes pour donner vie à vos projets. » 
                     </p>
                     <div class="socials-footer">
                         <a href="https://api.whatsapp.com/send/?phone=%2B22958507828&text=Bonjour+monsieur/madame%0AJ%27esp%C3%A8re+que+vous+allez+tr%C3%A8s+bien" target="_blank"><i class="fa-brands fa-square-whatsapp"></i></a>
